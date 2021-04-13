@@ -4,7 +4,6 @@
   "description": "> 我是公司系统文档",
   "main": "sw.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "docsify serve"
   },
   "repository": {
